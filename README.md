@@ -3,16 +3,16 @@
 ## Dev
 
 1. Clonar el proyecto :
-    git clone https://github.com/tu-usuario/guitarla.git
-    cd guitarla
+    ``` git clone https://github.com/tu-usuario/guitarla.git  ```
+    ```  cd guitarla  ```
 2. Instalar dependencias
-   npm install
+     ``` npm install  ```
 3. Levantar el proyecto en modo desarrollo
-   npm run dev
+   ``` npm run dev  ```
 4. Build para producción
-   npm run build
+   ```  npm run build  ```
 5. Vista previa del build de producción
-   npm run preview
+   ```  npm run preview  ```
 
 ## Tecnologías Utilizadas
 
