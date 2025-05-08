@@ -16,16 +16,16 @@
 
 ## Tecnologías Utilizadas
 
- Framework y Lenguaje
+- Framework y Lenguaje
 
 1. React 19
 
 2. TypeScript
 
- Estilos y Diseño
-    Bootstrap
+- Estilos y Diseño
+1. Bootstrap
 
-Hooks personalizados
+- Hooks personalizados
 
-Backend Simulado (opcional)
-Json-Server: para simular API REST en desarrollo
+- Backend Simulado (opcional)
+1. Json-Server: para simular API REST en desarrollo
