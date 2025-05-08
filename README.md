@@ -42,6 +42,5 @@
 
 Hooks personalizados
 
-
- Backend Simulado (opcional)
+Backend Simulado (opcional)
 Json-Server: para simular API REST en desarrollo
