@@ -31,10 +31,10 @@ function App() {
         <h2 className="text-center">Nuestra Colección</h2>
 
         <div className="row mt-5">
-          {data.map((giutarra) => (
+          {data.map((guitarra) => (
             <Guitar
-              key={giutarra.id}
-              giutarra={giutarra}
+              key={guitarra.id}
+              guitarra={guitarra}
               addToCart={addToCart}
             />
           ))}
